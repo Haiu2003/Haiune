@@ -1,0 +1,20 @@
+h1{
+    background-color: rgb(190, 220, 145);
+    color: green;
+    text-align: center;
+}
+.div_1{
+    text-align: center;
+}
+.div_1 b{
+    font-size: 20px;
+}
+.div_1 p{
+    color: blue;
+}
+.div_2{
+    color: red;
+}
+.div_3{
+    text-align: right;
+}
